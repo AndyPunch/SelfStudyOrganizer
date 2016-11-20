@@ -1,1 +1,1 @@
-# SelfStudyOrganizer
+# Self-Study Organizer
