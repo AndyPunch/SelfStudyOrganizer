@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#CCC5C2</color>
+    <color name="black">#000</color>
+    <color name="primary_dark">#455A64</color>
+    <color name="accent">#536DFE</color>
+    <color name="primary2">#F44336</color>
+    <color name="primary_dark2">#D32F2F</color>
+    <color name="accent2">#FFAB00</color>
+    <color name="transparent">#00000000</color>
+    <color name="divider_color">#fff</color>
+    <color name="divider_color_two">#EBE8E7</color>
+    <color name="white">#FFFFFF</color>
+
+
+    <color name="exp_list_group_color">#9A8C87</color>
+
+    <!--<color name="custom_action_bar_color2">#787FA1</color>
+    <color name="table_header_color">#5A5F79</color>
+    <color name="table_line1_color">#787FA1</color>-->
+    <color name="table_line2_color">#CCC5C2</color>
+    <color name="custom_text_color">#9A8C87</color>
+    <color name="edittext_underline_color">#EFF0F1</color>
+    <color name="custom_action_bar_color">#66524A</color>
+    <color name="activity_background">#EBE8E7</color>
+
+
+</resources>

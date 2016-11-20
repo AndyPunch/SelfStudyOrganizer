@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/popup_update"
+        android:textColor="@color/custom_text_color"
+        android:textSize="14sp"
+        android:textStyle="italic"
+        android:title="@string/popup_update"/>
+    <item
+        android:id="@+id/popup_delete"
+        android:textColor="@color/custom_text_color"
+        android:textSize="14sp"
+        android:textStyle="italic"
+        android:title="@string/popup_delete"/>
+</menu>

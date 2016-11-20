@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="readResource" />
+    <item type="id" name="listenResource" />
+    <item type="id" name="watchResource"/>
+    <item type="id" name="internetResource"/>
+    <item type="id" name="resurce_custom_dialog_note_save"/>
+    <item type="id" name="action_note_save"/>
+    <item type="id" name="action_button_note"/>
+</resources>

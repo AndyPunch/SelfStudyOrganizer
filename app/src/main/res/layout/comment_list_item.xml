@@ -1,0 +1,33 @@
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/rlComment"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/tvLvCommentBody"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/commentDate"
+            android:layout_alignRight="@+id/commentDate"
+            android:layout_below="@+id/commentDate"
+            android:textColor="@color/custom_text_color"/>
+
+        <TextView
+            android:id="@+id/commentDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:textColor="@color/custom_text_color"/>
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

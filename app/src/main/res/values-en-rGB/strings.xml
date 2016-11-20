@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Self-Study Organizer</string>
+    <string name="short_app_name">SS Organizer</string>
+    <string name="delete">Delete?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_cancel">Deleting is canceled</string>
+    <string name="name_already_exists">The name already exists</string>
+    <string name="link_already_exists">The link already exists</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="new_field_of_study">New field of study</string>
+    <string name="enter_name">Enter a title</string>
+    <string name="enter_text">Enter text</string>
+    <string name="enter_link">Enter URL</string>
+    <string name="enter_link_warning">Enter URL</string>
+    <string name="read">"Read: "</string>
+    <string name="watch">"Watch: "</string>
+    <string name="listen">"Listen: "</string>
+    <string name="internet">"Internet: "</string>
+    <string name="attendance_good">GOOD attendance</string>
+    <string name="attendance_middle">AVERAGE attendance</string>
+    <string name="attendance_bad">LOW attendance</string>
+    <string name="you_enter_here">"You came here "</string>
+    <string name="bad_resource">Bad resource</string>
+    <string name="good_resource">Good resource</string>
+    <string name="couldnt_find_device">Sorry, couldn\'t find an apprpriate device</string>
+    <string name="comments">Comments</string>
+    <string name="description_send_comment">Send Comment</string>
+    <string name="you_are_pioneer">You are here for the first time</string>
+    <string name="attendance_zero">ZERO attendance</string>
+    <string name="run_resource">Resource run</string>
+    <string name="estimate_resource_to_continue">You can estimate the resource if you want</string>
+    <string name="grade_bad">Bad grade</string>
+    <string name="grade_good">Good grade</string>
+    <string name="description_comments">Comments</string>
+    <string name="description_grade_bad">Bad grade</string>
+    <string name="description_grade_good">Good grade</string>
+    <string name="description_study_field">Field of study</string>
+    <string name="settings">Settings</string>
+    <string name="add_fos">Add a field of study</string>
+    <string name="no_grades">No ratings</string>
+    <string name="popup_update">Update</string>
+    <string name="popup_delete">Delete</string>
+    <string name="grade_mode">Grade mode</string>
+
+    <string-array name="wizard_Title_For_ExpLv">
+        <item>Read</item>
+        <item>Watch</item>
+        <item>Listen</item>
+        <item>Internet</item>
+    </string-array>
+    <string name="about_program">About</string>
+
+    <string name="about_html">
+        <![CDATA[
+        <h1>Self-Study Organizer v0.1b</h1>
+        <p>
+            Author: Andrew Punch
+
+        </p>
+         <p>
+            Email me: andr.punch@gmail.com
+        </p>
+
+        <br>
+        <h6 align="center">GNU General Public Licence</h6>
+        <p>
+            This program is distributed in the hope that it will be
+            useful, but WITHOUT ANY WARRANTY; without even the
+            implied warranty of MERCHANTABILITY or FITNESS FOR A
+            PARTICULAR PURPOSE. See the GNU General Public
+            License for more details.
+        </p>
+        ]]>
+    </string>
+    <string name="enter_link_hint">URL</string>
+    <string name="internet_title_hint">Title(optional)</string>
+
+</resources>
