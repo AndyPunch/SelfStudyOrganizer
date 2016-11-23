@@ -379,7 +379,7 @@ public class StudyResourcesActivity extends AppCompatActivity implements View
                             (filenameFull.split("(?=file)")));
                     fullNameListForDb = new ArrayList<>();
                     shortNameListForDb = new ArrayList<>();
-                    //удаляем 1 эллемент массива который был нужен для
+                    //удаляем 1 элемент массива который был нужен для
                     // инициализации
                     fullNameList = fullNameList.subList(1, fullNameList.size());
                     //добавляем названия ресурсов(без полного пути) в
@@ -430,7 +430,7 @@ public class StudyResourcesActivity extends AppCompatActivity implements View
                             (filenameFull.split("(?=file)")));
                     fullNameListForDb = new ArrayList<>();
                     shortNameListForDb = new ArrayList<>();
-                    //удаляем 1 эллемент массива который был нужен для
+                    //удаляем 1 элемент массива который был нужен для
                     // инициализации
                     fullNameList = fullNameList.subList(1, fullNameList.size());
 
