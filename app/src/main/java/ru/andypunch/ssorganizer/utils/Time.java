@@ -7,7 +7,7 @@ import java.text.SimpleDateFormat;
 /**
  * Time.java
  *
- * Methods to convert time and dates
+ * Class with methods to convert time and dates
  */
 
 public class Time {

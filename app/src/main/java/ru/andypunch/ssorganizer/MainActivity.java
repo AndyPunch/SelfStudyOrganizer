@@ -133,7 +133,6 @@ public class MainActivity extends AppCompatActivity implements LoaderManager
         }
     }
 
-
     //add to database fieldOfStudy name and date
     public void addStudyField(String fielsOfStudyName) {
         db.addMainTitleRec(fielsOfStudyName);
