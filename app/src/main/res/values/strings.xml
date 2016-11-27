@@ -1,65 +1,65 @@
 <resources>
     <string name="app_name">Self-Study Organizer</string>
     <string name="short_app_name">SS Organizer</string>
-    <string name="delete">Удалить?</string>
-    <string name="ok">Да</string>
-    <string name="cancel">Отмена</string>
-    <string name="delete_cancel">Удаление отменено</string>
-    <string name="link_already_exists">Такая ссылка уже существует</string>
-    <string name="name_already_exists">Такое название уже существует</string>
-    <string name="something_went_wrong">Что то пошло не так</string>
-    <string name="new_field_of_study">Новая область изучения</string>
-    <string name="enter_name">Введите название</string>
-    <string name="enter_link_warning">Введите ссылку</string>
-    <string name="enter_text">Введите текст</string>
-    <string name="enter_link">Добавить URL</string>
-    <string name="read">"Почитать: "</string>
-    <string name="watch">"Посмотреть: "</string>
-    <string name="listen">"Послушать: "</string>
-    <string name="internet">"Интернет: "</string>
-    <string name="attendance_good">Посещаемость - ВЫСОКАЯ</string>
-    <string name="attendance_middle">Посещаемость - СРЕДНЯЯ</string>
-    <string name="attendance_bad">Посещаемость - НИЗКАЯ</string>
-    <string name="you_enter_here">"Вы заходили сюда "</string>
-    <string name="bad_resource">Плохой ресурс</string>
-    <string name="good_resource">Хороший ресурс</string>
-    <string name="couldnt_find_device">Извините, не могу найти соответствующую программу</string>
-    <string name="comments">Комментарии</string>
-    <string name="description_send_comment">Отправить Комментарий</string>
-    <string name="you_are_pioneer">Вы здесь впервые</string>
-    <string name="attendance_zero">Посещаемость - НУЛЕВАЯ</string>
-    <string name="run_resource">Запуск ресурса</string>
-    <string name="estimate_resource_to_continue">Оцените ресурс после использования</string>
-    <string name="grade_bad">Плохая оценка</string>
-    <string name="grade_good">Хорошая оценка</string>
-    <string name="description_comments">Комменарии</string>
-    <string name="description_grade_bad">Плохая оценка</string>
-    <string name="description_grade_good">Хорошая оценка</string>
-    <string name="description_study_field">Область изучения</string>
-    <string name="settings">Настройки</string>
-    <string name="add_fos">Добавьте область изучения</string>
-    <string name="no_grades">Нет оценок</string>
-    <string name="popup_update">Обновить</string>
-    <string name="popup_delete">Удалить</string>
-    <string name="grade_mode">Режим оценки</string>
+    <string name="delete">Delete?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_cancel">Deleting is canceled</string>
+    <string name="name_already_exists">The name already exists</string>
+    <string name="link_already_exists">The link already exists</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="new_field_of_study">New field of study</string>
+    <string name="enter_name">Enter a title</string>
+    <string name="enter_text">Enter text</string>
+    <string name="enter_link">Enter URL</string>
+    <string name="enter_link_warning">Enter URL</string>
+    <string name="read">"Read: "</string>
+    <string name="watch">"Watch: "</string>
+    <string name="listen">"Listen: "</string>
+    <string name="internet">"Internet: "</string>
+    <string name="attendance_good">GOOD attendance</string>
+    <string name="attendance_middle">AVERAGE attendance</string>
+    <string name="attendance_bad">LOW attendance</string>
+    <string name="you_enter_here">"You came here "</string>
+    <string name="bad_resource">Bad resource</string>
+    <string name="good_resource">Good resource</string>
+    <string name="couldnt_find_device">Sorry, couldn\'t find an apprpriate device</string>
+    <string name="comments">Comments</string>
+    <string name="description_send_comment">Send Comment</string>
+    <string name="you_are_pioneer">You are here for the first time</string>
+    <string name="attendance_zero">ZERO attendance</string>
+    <string name="run_resource">Resource run</string>
+    <string name="estimate_resource_to_continue">You can estimate the resource if you want</string>
+    <string name="grade_bad">Bad grade</string>
+    <string name="grade_good">Good grade</string>
+    <string name="description_comments">Comments</string>
+    <string name="description_grade_bad">Bad grade</string>
+    <string name="description_grade_good">Good grade</string>
+    <string name="description_study_field">Field of study</string>
+    <string name="settings">Settings</string>
+    <string name="add_fos">Add a field of study</string>
+    <string name="no_grades">No ratings</string>
+    <string name="about_program">About</string>
+    <string name="popup_update">Update</string>
+    <string name="popup_delete">Delete</string>
+    <string name="grade_mode">Grade mode</string>
 
     <string-array name="wizard_Title_For_ExpLv">
-        <item>Почитать</item>
-        <item>Посмотреть</item>
-        <item>Послушать</item>
-        <item>Интернет</item>
+        <item>Read</item>
+        <item>Watch</item>
+        <item>Listen</item>
+        <item>Internet</item>
     </string-array>
 
-    <string name="about_program">О программе</string>
-   <string name="about_html">
+    <string name="about_html">
         <![CDATA[
-        <h1>Self-Study Organizer v0.1b</h1>
+        <h1>Self-Study Organizer v0.2b</h1>
         <p>
-            Автор: Andrew Punch
+            Author: Andrew Punch
 
         </p>
          <p>
-            Напиши мне: andr.punch@gmail.com
+            Email me: andr.punch@gmail.com
         </p>
 
         <br>
@@ -73,7 +73,8 @@
         </p>
         ]]>
     </string>
-    <string name="enter_link_hint">Ссылка на ресурс</string>
-    <string name="internet_title_hint">Название(необязательно)</string>
+
+    <string name="enter_link_hint">URL</string>
+    <string name="internet_title_hint">Title(optional)</string>
 
 </resources>
