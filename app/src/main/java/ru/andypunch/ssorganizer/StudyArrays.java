@@ -22,7 +22,7 @@ public class StudyArrays {
         context = current;
     }
 
-    //collection with name of category of resources.
+    //collection with names of category of resources.
     static List<String> titleForExpLv;
     //collection with resources data.
     public static HashMap<String, List<String>> resourceData = new HashMap<String, List<String>>();

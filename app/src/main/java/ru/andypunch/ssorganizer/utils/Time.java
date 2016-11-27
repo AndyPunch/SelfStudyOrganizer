@@ -5,7 +5,9 @@ import android.text.format.DateUtils;
 import java.text.SimpleDateFormat;
 
 /**
- * Created by ASUS on 08.10.2016.
+ * Time.java
+ *
+ * Methods to convert time and dates
  */
 
 public class Time {

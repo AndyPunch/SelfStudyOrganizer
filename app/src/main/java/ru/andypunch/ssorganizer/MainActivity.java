@@ -26,7 +26,6 @@ import ru.andypunch.ssorganizer.databases.Db;
 import ru.andypunch.ssorganizer.databases.MainDb;
 import ru.andypunch.ssorganizer.fragments.AddFieldOfStudyFragment;
 import ru.andypunch.ssorganizer.settings.About;
-import ru.andypunch.ssorganizer.settings.SettingsPrefActivity;
 
 
 public class MainActivity extends AppCompatActivity implements LoaderManager
@@ -35,6 +34,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager
     private MainDb db;
     private MySimpleCursorAdapter scAdapter;
     private ListView lvMain;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
