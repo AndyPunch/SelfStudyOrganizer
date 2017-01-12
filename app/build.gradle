@@ -7,13 +7,13 @@ android {
         applicationId "ru.andypunch.ssorganizer"
         minSdkVersion 16
         targetSdkVersion 25
-        versionCode 1
-        versionName "0.1b"
+        versionCode 2
+        versionName "0.2b"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
         release {
-            minifyEnabled true
+            minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }

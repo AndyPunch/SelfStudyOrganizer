@@ -16,7 +16,7 @@
 
         <TextView
             android:id="@+id/finish_exp_list_item"
-            android:layout_width="fill_parent"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ellipsize="end"
             android:maxLines="1"
@@ -29,7 +29,7 @@
 
         <LinearLayout
             android:id="@+id/linearLayoutExpImg1"
-            android:layout_width="fill_parent"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@+id/finish_exp_list_item"
             android:orientation="horizontal"

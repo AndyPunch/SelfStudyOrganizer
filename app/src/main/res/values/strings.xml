@@ -10,9 +10,9 @@
     <string name="something_went_wrong">Something went wrong</string>
     <string name="new_field_of_study">New field of study</string>
     <string name="enter_name">Enter a title</string>
+    <string name="enter_link_warning">Enter URL</string>
     <string name="enter_text">Enter text</string>
     <string name="enter_link">Enter URL</string>
-    <string name="enter_link_warning">Enter URL</string>
     <string name="read">"Read: "</string>
     <string name="watch">"Watch: "</string>
     <string name="listen">"Listen: "</string>

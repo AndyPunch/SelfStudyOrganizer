@@ -39,6 +39,7 @@
     <string name="settings">Настройки</string>
     <string name="add_fos">Добавьте область изучения</string>
     <string name="no_grades">Нет оценок</string>
+    <string name="about_program">О программе</string>
     <string name="popup_update">Обновить</string>
     <string name="popup_delete">Удалить</string>
     <string name="grade_mode">Режим оценки</string>
@@ -50,10 +51,9 @@
         <item>Интернет</item>
     </string-array>
 
-    <string name="about_program">О программе</string>
    <string name="about_html">
         <![CDATA[
-        <h1>Self-Study Organizer v0.1b</h1>
+        <h1>Self-Study Organizer v0.2b</h1>
         <p>
             Автор: Andrew Punch
 
